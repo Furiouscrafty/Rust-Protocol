@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f1122eaac19eb4aa58c98ede114ad4, type: 3}
+  m_Name: Vanguard
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  item_type: 6
+  isEquipped: 0
+  inInventory: 0
+  Type: 2
+  isAnimating: 0
+  item_sprite: {fileID: 21300000, guid: 1e9ec61003d5e414e9bd6a8e60f8edd3, type: 3}
